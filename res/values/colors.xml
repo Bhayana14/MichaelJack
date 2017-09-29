@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+
+    <color name="red">#fd0a0f</color>
+    <color name="green">#018901</color>
+    <color name="blue">#d54467b1</color>
+    <color name="colorBackground">#DCDCDC</color>
+
+    <color name="orange">#ff5900</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorAccentLight">#994a5780</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent_color">#29000000</color>
+    <color name="gray">#b6beb4</color>
+    <color name="grayDark">#949090</color>
+    <color name="grayMettlic">#798089</color>
+
+    <color name="light_brown">#b77474</color>
+
+    <color name="tab_active">#E9967A</color>
+    <color name="tab_inactive">#e3e3e3</color>
+    <color name="tab_background">#454545</color>
+    <color name="login_btn_color">#F9b030</color>
+    <color name="login_bg_color">#2F3F4B</color>
+    <color name="title_background">#8A98A3</color>
+    <color name="silver">#cacace</color>
+</resources>
